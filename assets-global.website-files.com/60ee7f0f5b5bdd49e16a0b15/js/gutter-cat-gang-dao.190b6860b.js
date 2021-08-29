@@ -34551,3 +34551,10 @@ Webflow.require('ix2').init({
         }]
     }
 });
+
+var typed = new Typed(".typing", {
+    strings: ["AND WIN PRIZES", "WITH SKILL"],
+    typeSpeed: 200,
+    backSpeed: 100,
+    loop: true
+})

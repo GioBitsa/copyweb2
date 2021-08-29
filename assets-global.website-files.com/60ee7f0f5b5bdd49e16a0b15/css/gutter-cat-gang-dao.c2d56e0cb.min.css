@@ -3689,7 +3689,18 @@ p {
     background-image: url("https://assets-global.website-files.com/60ee7f0f5b5bdd49e16a0b15/60eebcac29f95148b4cde0b6_Rectangle%2035.png");
     background-position: 50% 50%;
     background-size: cover;
-    background-repeat: no-repeat
+    background-repeat: no-repeat;
+    position: relative; 
+}
+
+.div-block-584 p{
+    width: 100%;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, 0);
+    margin-top: 20px;
+    text-align: center;
 }
 
 .div-block-585 {
@@ -3704,7 +3715,18 @@ p {
     background-image: url("https://assets-global.website-files.com/60ee7f0f5b5bdd49e16a0b15/60eebcacb021208ac5f81616_Rectangle%2036.png");
     background-position: 50% 50%;
     background-size: cover;
-    background-repeat: no-repeat
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.div-block-585 p{
+    width: 100%;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, 0);
+    margin-top: 20px;
+    text-align: center;
 }
 
 .text-block-19 {
