@@ -11265,7 +11265,8 @@ p {
         flex-direction: column
     }
     .div-block-544 {
-        width: 100%
+        width: 100%;
+        height: 100%;
     }
     .gallery-section {
         padding-top: 100px
